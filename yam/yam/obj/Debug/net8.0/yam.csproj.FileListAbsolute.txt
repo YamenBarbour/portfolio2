@@ -1,0 +1,14 @@
+C:\Users\amer-\source\repos\yam\yam\bin\Debug\net8.0\yam.exe
+C:\Users\amer-\source\repos\yam\yam\bin\Debug\net8.0\yam.deps.json
+C:\Users\amer-\source\repos\yam\yam\bin\Debug\net8.0\yam.runtimeconfig.json
+C:\Users\amer-\source\repos\yam\yam\bin\Debug\net8.0\yam.dll
+C:\Users\amer-\source\repos\yam\yam\bin\Debug\net8.0\yam.pdb
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.AssemblyInfoInputs.cache
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.AssemblyInfo.cs
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.csproj.CoreCompileInputs.cache
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.dll
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\refint\yam.dll
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.pdb
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\yam.genruntimeconfig.cache
+C:\Users\amer-\source\repos\yam\yam\obj\Debug\net8.0\ref\yam.dll
